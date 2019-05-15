@@ -21,10 +21,9 @@ public class MainActivity extends AppCompatActivity {
 
         String a;
         a="Welcome";
-        System.out.println("This is Myname ");
+        System.out.println("Welcome");
 
-
-        // smaple changes by viki
+        // sample changes by viki
 
         Timestamp timestamp=new Timestamp(System.currentTimeMillis());
         Toast.makeText(this, timestamp.toString(), Toast.LENGTH_SHORT).show();
