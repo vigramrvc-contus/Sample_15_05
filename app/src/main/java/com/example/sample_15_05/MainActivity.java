@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
     private void samplemethod() {
 
         String a;
-        a="Mahmuthulhasan";
-        System.out.println("This is Myname ");
+        a="world wide ";
+        System.out.println("World ");
 
 
         // smaple changes by viki
