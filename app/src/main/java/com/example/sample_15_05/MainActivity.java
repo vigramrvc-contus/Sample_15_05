@@ -20,10 +20,11 @@ public class MainActivity extends AppCompatActivity {
     private void samplemethod() {
 
         String a;
-        a="Welcome";
-        System.out.println("Welcome");
+        a="world wide ";
+        System.out.println("World ");
 
-        // sample changes by viki
+
+        // smaple changes by viki
 
         Timestamp timestamp=new Timestamp(System.currentTimeMillis());
         Toast.makeText(this, timestamp.toString(), Toast.LENGTH_SHORT).show();
