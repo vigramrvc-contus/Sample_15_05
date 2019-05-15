@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private void samplemethod() {
 
         String a;
-        a="Mahmuthulhasan";
+        a="Welcome";
         System.out.println("This is Myname ");
 
 
