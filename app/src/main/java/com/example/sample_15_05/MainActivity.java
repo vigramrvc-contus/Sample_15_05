@@ -15,7 +15,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void samplemethod() {
 
-        System.out.println(System.currentTimeMillis());
+        String a;
+        a="Mahmuthulhasan";
+        System.out.println("This is Myname ");
 
     }
 }
